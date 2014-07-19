@@ -1,7 +1,7 @@
 recipies
 ========
 
-salads
+cereals
 ------
 
-1. greek salad - lettuce, fetta, tomato
+1. Weetbix
